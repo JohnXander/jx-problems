@@ -2,8 +2,8 @@
 
 > DESCRIPTION
 
-You will be given 3 parameters (2 array indices & 1 array).
-The element at the first array index should replace the element at the second array index.
+- You will be given 3 parameters (2 array indices & 1 array).
+- The element at the first array index should replace the element at the second array index.
 
 > NOTES
 
