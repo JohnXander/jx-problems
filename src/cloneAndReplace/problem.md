@@ -5,7 +5,7 @@
 You will be given 3 parameters (2 array indices & 1 array).
 The element at the first array index should replace the element at the second array index.
 
-> NOTE
+> NOTES
 
 1. If the index is negative, it should be counted backwards from the end of the array.
 2. When counting backwards, the first index will be 1 not 0.
