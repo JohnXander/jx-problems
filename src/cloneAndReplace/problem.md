@@ -8,7 +8,6 @@ The element at the first array index should replace the element at the second ar
 > NOTES
 
 1. If the index is negative, it should be counted backwards from the end of the array.
-2. When counting backwards, the first index will be 1 not 0.
 
 > EXAMPLES
 
