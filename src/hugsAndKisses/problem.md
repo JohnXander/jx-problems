@@ -2,9 +2,9 @@
 
 > DESCRIPTION
 
-You will be given 3 numbers (an array length, a starting point, and an endpoint).
-Your return array should be the correct length and populated by hugs ("O").
-However, anything from the starting point index to the endpoint index should be kisses ("X").
+- You will be given 3 numbers (an array length, a starting point, and an endpoint).
+- Your return array should be the correct length and populated by hugs ("O").
+- However, anything from the starting point index to the endpoint index should be kisses ("X").
 
 > NOTES
 
