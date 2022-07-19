@@ -3,7 +3,7 @@
 > DESCRIPTION
 
 - You will be given 3 numbers (an array length, a starting point, and an endpoint).
-- Your return array should be the correct length and populated by hugs ("O").
+- Your return array should be the passed array length and populated by hugs ("O").
 - However, anything from the starting point index to the endpoint index should be a kiss ("X").
 
 > NOTES
@@ -14,6 +14,7 @@
 > EXAMPLES
 
 `hugsAndKisses(3, 1, 2)` should return `[ 'O', 'X', 'O' ]` <br>
+because the array length is 3 and the kisses are inserted at index 1 but stop at index 2.
 
 `hugsAndKisses(5, -4, -1)` should return `[ 'O', 'X', 'X', 'X', 'O' ]` <br>
 because the 4th index from the end of the array is index 1 and the 1st index from the end of the array is index 4.

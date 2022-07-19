@@ -1,11 +1,7 @@
 // STARTING CODE:
 
-// const fatFriday = arr => {
-//     // Happy coding!
-// }
-
-const fatFriday = () => {
-    return "Is this working?"
+const fatFriday = arr => {
+    // Happy coding!
 }
 
 module.exports = fatFriday

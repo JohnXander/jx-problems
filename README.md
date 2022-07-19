@@ -7,3 +7,7 @@
 > Each folder in `src` will contain the following:
 1. A `problem.md` file outlining the problem.
 2. A `solution.js` file with the starting code.
+
+> Testing
+- Each problem also has its own set of tests in the `spec` folder.
+- You can run `npx jasmine` to check if your solutions are passing the tests.
