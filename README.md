@@ -8,6 +8,6 @@
 1. A `problem.md` file outlining the problem.
 2. A `solution.js` file with the starting code.
 
-> Testing
+> Testing information:
 - Each problem also has its own set of tests in the `spec` folder.
 - You can run `npx jasmine` to check if your solutions are passing the tests.
