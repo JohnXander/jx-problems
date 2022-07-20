@@ -18,7 +18,7 @@ const phrases = ["Laugh Out Loud", "Oh My God", "As Soon As Possible"]
 `acronymizer(phrases)` should return `[ 'LOL', 'OMG', 'ASAP' ]`
 
 ```js
-const techPhrases = ["GraphicsInterchangeFormat", "InternetProtocol", "AwayFromKeyboar"]
+const techPhrases = ["GraphicsInterchangeFormat", "InternetProtocol", "AwayFromKeyboard"]
 ```
 
 `acronymizer(techPhrases)` should return `[ 'GIF', 'IP', 'AFK' ]`
