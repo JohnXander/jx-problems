@@ -10,7 +10,7 @@
 
 > NOTES
 
-1. The string should keep any punctuation marks from the data.
+1. The string should also keep any punctuation marks from the data.
 
 > EXAMPLES
 
