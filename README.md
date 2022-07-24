@@ -1,4 +1,4 @@
-# Welcome to JX Problems
+# Welcome to JX Problems 💻
 
 > This project was inspired by the Boolean UK repo: [JS Problems](https://github.com/boolean-uk/js-problems) <br>
 - The original repo stood for "JavaScript Problems", whereas this repo stands for "JohnXander Problems" <br>
