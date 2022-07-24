@@ -1,17 +1,17 @@
 # Profile Update
 
-> DESCRIPTION
+🏷️ **DESCRIPTION**
 
 - You will be given 2 objects containing data about a user.
 - The 1st object is the user's original sign-up information from 3 years ago.
 - The 2nd object contains updated information from today.
 - Your function should return 1 object that includes both original and updated information.
 
-> NOTES
+🖊️ **NOTES**
 
 1. Some of the properties in the updated data may not have existed in the original data.
 
-> EXAMPLES
+⚡ **EXAMPLES**
 
 ```js
 const signUpData = {
