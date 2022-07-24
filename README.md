@@ -1,6 +1,6 @@
 # Welcome to JX Problems 💻
 
-> This project was inspired by the Boolean UK repo: [JS Problems](https://github.com/boolean-uk/js-problems) <br>
+🎓 **This project was inspired by the Boolean UK repo:** [JS Problems](https://github.com/boolean-uk/js-problems) <br>
 - The original repo stood for "JavaScript Problems", whereas this repo stands for "JohnXander Problems" <br>
 (as all the problems were designed by myself in order to practise different parts of JavaScript).
 
