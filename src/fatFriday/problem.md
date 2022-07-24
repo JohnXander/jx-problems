@@ -1,17 +1,17 @@
 # Fat Friday
 
-> 🏷️ DESCRIPTION
+> 🏷️ **DESCRIPTION**
 
 - You will be given an array of data about a user from a diet tracker app.
 - Each item in the array will contain the date (always Friday) and the calory intake for that day.
 - Return the most recent Friday where the user's calory intake was above 2000.
 - If the calory intake never went above 2000, return "Well done!".
 
-> 🖊️ NOTES
+> 🖊️ **NOTES**
 
 1. The dates are always ordered from least recent to most recent.
 
-> ⚡ EXAMPLES
+> ⚡ **EXAMPLES**
 
 ```js
 const user3566 = [
