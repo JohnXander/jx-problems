@@ -9,7 +9,7 @@
 
 1. Some of the phrases will be in camel case (no spaces).
 
-> 🧪 EXAMPLES
+> ⚡ EXAMPLES
 
 ```js
 const phrases = ["Laugh Out Loud", "Oh My God", "As Soon As Possible"]
