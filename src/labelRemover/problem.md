@@ -1,15 +1,15 @@
 # Label Remover
 
-> DESCRIPTION
+🏷️ **DESCRIPTION**
 
 - The organisers at a quiz event want to use less ink when printing out results.
 - Please remove any instances of the word "name" or "points" from their results data.
 
-> NOTES
+🖊️ **NOTES**
 
 1. The returned data must be an array of objects.
 
-> EXAMPLES
+⚡ **EXAMPLES**
 
 ```js
 const quizResults = [
