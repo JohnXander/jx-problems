@@ -1,17 +1,17 @@
 # Piggy In The Middle
 
-> DESCRIPTION
+🏷️ **DESCRIPTION**
 
 - You will be given a decimal number.
 - Make sure there are the same amount of digits on either side of the decimal point.
 - The result should be returned in string format.
 
-> NOTES
+🖊️ **NOTES**
 
 1. If the decimal part is shortened, it should be rounded to the nearest integer.
 2. If the decimal part is too short, zeros can be added to make up the difference.
 
-> EXAMPLES
+⚡ **EXAMPLES**
 
 `piggyInTheMiddle(123.456)` should return `123.456` <br>
 
