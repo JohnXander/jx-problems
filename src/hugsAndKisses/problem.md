@@ -1,17 +1,17 @@
 # Hugs & Kisses
 
-> DESCRIPTION
+> 🏷️ **DESCRIPTION**
 
 - You will be given 3 numbers (an array length, a starting point, and an endpoint).
 - Your return array should be the passed array length and populated by hugs ("O").
 - However, anything from the starting point index to the endpoint index should be a kiss ("X").
 
-> NOTES
+> 🖊️ **NOTES**
 
 1. If the index is negative, it should be counted backwards from the end of the array.
 2. If the endpoint is the same as or lower than the starting point, there should be no kisses.
 
-> EXAMPLES
+> ⚡ **EXAMPLES**
 
 `hugsAndKisses(3, 1, 2)` should return `[ 'O', 'X', 'O' ]` <br>
 because the array length is 3 and the kisses are inserted at index 1 but stop at index 2.
