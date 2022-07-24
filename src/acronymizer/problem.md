@@ -5,7 +5,7 @@
 - You will be given an array of phrases.
 - Create a function that turns each phrase into an acronym.
 
-> 📝 NOTES
+> 🖊️ NOTES
 
 1. Some of the phrases will be in camel case (no spaces).
 
