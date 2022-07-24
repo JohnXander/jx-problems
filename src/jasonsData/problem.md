@@ -1,6 +1,6 @@
 # Jason's Data
 
-> DESCRIPTION
+🏷️ **DESCRIPTION**
 
 - You will be given an object containing data about a famous Jason.
 - Create a function that turns all of his data into a single string with no spaces.
@@ -8,11 +8,11 @@
 - Booleans, numbers and null values should not be surrounded by double quotes.
 - Undefined values should be omitted entirely.
 
-> NOTES
+🖊️ **NOTES**
 
 1. The string should also keep any punctuation marks from the data.
 
-> EXAMPLES
+⚡ **EXAMPLES**
 
 ```js
 const jasonStatham = {
