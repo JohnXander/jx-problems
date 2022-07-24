@@ -1,4 +1,4 @@
-# Fat Friday
+# Fat Friday 🍕
 
 🏷️ **DESCRIPTION**
 
