@@ -1,4 +1,4 @@
-# Label Remover
+# Label Remover 🖨️
 
 🏷️ **DESCRIPTION**
 
