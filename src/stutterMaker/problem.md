@@ -1,16 +1,16 @@
 # Stutter Maker
 
-> DESCRIPTION
+🏷️ **DESCRIPTION**
 
 - You will receive a number and an array containing a full word and a part of the word.
 - The part of the word should repeat itself before attaching to the full word.
 - The finished utterance shoud be the same length as the number.
 
-> NOTES
+🖊️ **NOTES**
 
 1. The part of the word doesn't always stay whole. Some parts of it may be cut off.
 
-> EXAMPLES
+⚡ **EXAMPLES**
 
 `stutterMaker(20, ["ea-", "eager"])` should return `"ea-ea-ea-ea-ea-eager"`
 
