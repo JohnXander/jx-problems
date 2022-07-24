@@ -4,7 +4,7 @@
 - The original repo stood for "JavaScript Problems", whereas this repo stands for "JohnXander Problems" <br>
 (as all the problems were designed by myself in order to practise different parts of JavaScript).
 
-> Each folder in `src` will contain the following:
+📁 **Each folder in `src` will contain the following:**
 1. A `problem.md` file outlining the problem.
 2. A `solution.js` file with the starting code.
 
