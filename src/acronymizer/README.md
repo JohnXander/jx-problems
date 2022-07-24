@@ -1,4 +1,4 @@
-# Acronymizer 🏧
+# Acronymizer 🔠
 
 🏷️ **DESCRIPTION**
 
