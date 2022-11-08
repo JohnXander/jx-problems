@@ -10,3 +10,5 @@
 
 🧪 **Each problem also has its own set of tests in the `spec` folder.**
 - You can run `npx jasmine` to check if your solutions are passing the tests.
+
+https://user-images.githubusercontent.com/103267235/200564608-80ba858a-1be4-4dfd-9a2b-97846caf80be.mp4
